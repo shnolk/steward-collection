@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Ulla Johnson Kemala Dress",
+      "href": "#",
+      "price": "$48",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/625feaf9de152659213f6a43_5ef0acc0bfcf6a505b429bad_Order%2520%2523538707%2520%257C%2520vanessa%2540ericawilson.com%25202-p-1080.jpeg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+    },
+    {
+      "id": 2,
+      "name": "Erica Wilson Blue Dress",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/625feaf5be4946f268ea98ef_5ef0abeeb22d833e37cf5904_Order%2520%2523538707%2520%257C%2520vanessa%2540ericawilson.com%252010-p-1080.jpeg",
+      "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top."
+    },
+    {
+      "id": 3,
+      "name": "Printfresh Dress",
+      "href": "#",
+      "price": "$89",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/629fac455d1add37bd62921f_28.jpg",
+      "imageAlt": "Person using a pen to cross a task off a productivity paper card."
+    },
+    {
+      "id": 4,
+      "name": "Daphne Wilde Suit Jacket",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/626a4c541cd413736c4cf6a1_5%201.jpg",
+      "imageAlt": "Hand holding black machined steel mechanical pencil with brass tip and top."
+    },
+    {
+      "id": 5,
+      "name": "Daphne Wilde Striped Dress",
+      "href": "#",
+      "price": "$48",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/626a4c599336eeccd131adeb_5%203.jpg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+    },
+    {
+      "id": 6,
+      "name": "Ember Niche Sunglasses",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/625feae092ab0537144bb5f3_5ef0a76460d29e11d65e927f_Order%2520%2523538830%2520%257C%2520timmy%2540emberniche.com%25204-p-1080.jpeg",
+      "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top."
+    },
+    {
+      "id": 7,
+      "name": "Leather Backpack",
+      "href": "#",
+      "price": "$89",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/6265151552d56e4117c09280_2.jpg",
+      "imageAlt": "Person using a pen to cross a task off a productivity paper card."
+    },
+    {
+      "id": 8,
+      "name": "Erica Wilson Tote Bag",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/625feaf69fac6ca6bef9014a_5ef0ac15d65c35c7335e76c3_Order%2520%2523538707%2520%257C%2520vanessa%2540ericawilson.com%25209-p-1080.jpeg",
+      "imageAlt": "Hand holding black machined steel mechanical pencil with brass tip and top."
+    },
+    {
+      "id": 9,
+      "name": "Leather Purse",
+      "href": "#",
+      "price": "$48",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/628ce3f4356664f02687492e_Google-1.jpg",
+      "imageAlt": "Tall slender porcelain bottle with natural clay textured body and cork stopper."
+    },
+    {
+      "id": 10,
+      "name": "Leather Shoes",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/626e4d69e8a3b1b30e088815_9.jpg",
+      "imageAlt": "Olive drab green insulated bottle with flared screw lid and flat top."
+    },
+    {
+      "id": 11,
+      "name": "Gold Watch",
+      "href": "#",
+      "price": "$89",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/626e55aec8c654b8e7581d3f_123-2.jpg",
+      "imageAlt": "Person using a pen to cross a task off a productivity paper card."
+    },
+    {
+      "id": 12,
+      "name": "Gold Watch with Leather Band",
+      "href": "#",
+      "price": "$35",
+      "imageSrc": "https://global-uploads.webflow.com/6256995755a7ea0a3d8fbd11/626e55dddc441ca80d3ee32c_1.jpg",
+      "imageAlt": "Hand holding black machined steel mechanical pencil with brass tip and top."
+    }
+]
